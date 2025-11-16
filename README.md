@@ -1,0 +1,1 @@
+(basketball_shot_sim.tsx) is basically a basketball simulator using real-life percentages and real-life people to simulate how different people can take shots and their probablities of making those shots, from different angles
