@@ -1,5 +1,3 @@
-(basketball_shot_sim.tsx)([Claude-Coding-Project](https://claude.ai/public/artifacts/06a50af4-ffdc-4883-aaa5-f25a450daa6f)) is, in summary, a basketball simulator using real-life percentages and real-life people to simulate how different people can take shots and their probablities of making those shots from different angles. Created by Haripraveer Puranam
-(financial-ai-bot.tsx)([Claude-Coding-Project]([https://claude.ai/public/artifacts/06a50af4-ffdc-4883-aaa5-f25a450daa6f](https://claude.ai/public/artifacts/0c8734c3-1d3a-4c2c-bd40-f5a546ad701b))) is, in summary, a financial artificial intelligence bot which can inform you about financial advice and stocks and can also answer questions asked by the user. Created by Haripraveer Puranam
+(basketball_shot_sim.tsx) is, in summary, a basketball simulator using real-life percentages and real-life people to simulate how different people can take shots and their probablities of making those shots from different angles. Created by Haripraveer Puranam
+(financial-ai-bot.tsx) is, in summary, a financial artificial intelligence bot which can inform you about financial advice and stocks and can also answer questions asked by the user using real-life information and legitimate stock/investment advice. Created by Haripraveer Puranam
 View all files here: https://github.com/Hatt74/GoldensealStudios.github.io
-
-<iframe src="https://claude.site/public/artifacts/0c8734c3-1d3a-4c2c-bd40-f5a546ad701b/embed" title="Claude Artifact" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
