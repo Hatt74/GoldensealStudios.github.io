@@ -3,3 +3,4 @@
 (financial-ai-bot.tsx) is, in summary, a financial artificial intelligence bot which can inform you about financial advice and stocks and can also answer questions asked by the user using real-life information and legitimate stock/investment advice. Created by Haripraveer Puranam
 
 View all files here: https://github.com/Hatt74/GoldensealStudios.github.io
+https://hatt74.github.io/GoldensealStudios.github.io/
